@@ -41,6 +41,8 @@ public class Hash {
    */
   int length() {
     return this.bytes.length;
+  public int length() {
+    return 0;   // STUB
   } // length()
 
   /**
