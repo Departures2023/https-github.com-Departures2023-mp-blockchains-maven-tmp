@@ -9,7 +9,7 @@ package edu.grinnell.csc207.util;
  * @param <V>
  *   The type of the values.
  */
-class KVPair<K, V> {
+public class KVPair<K, V> {
   // +--------+------------------------------------------------------
   // | Fields |
   // +--------+

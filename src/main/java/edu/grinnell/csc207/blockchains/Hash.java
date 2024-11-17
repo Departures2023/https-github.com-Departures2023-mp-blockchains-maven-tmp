@@ -39,10 +39,8 @@ public class Hash {
    *
    * @return the number of bytes in the hash.
    */
-  int length() {
-    return this.bytes.length;
   public int length() {
-    return 0;   // STUB
+    return this.bytes.length;
   } // length()
 
   /**
